@@ -1,0 +1,3 @@
+"D:\Program Files (x86)\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Week09.dir/objects.a
+D:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\Week09.dir/objects.a @CMakeFiles\Week09.dir\objects1.rsp
+D:\mingw-w64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Week09.dir/objects.a -Wl,--no-whole-archive -o Week09.exe -Wl,--out-implib,libWeek09.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Week09.dir\linklibs.rsp
